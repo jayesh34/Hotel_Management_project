@@ -20,7 +20,7 @@ Features
 2.Retrieve customer details by ID.
 
 3.Update customer details.
-
+  
 4.Delete customer records.
 
 #Food Item Management:
